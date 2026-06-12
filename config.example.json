@@ -1,0 +1,29 @@
+{
+  "resy": {
+    "email": "you@example.com",
+    "password": "CHANGE_ME",
+    "auth_token": null,
+    "api_key": "VbWk7s3L4KiK5fzlO7JD3Q5EYolJI7n5"
+  },
+  "target": {
+    "venue_id": null,
+    "venue_slug": "some-restaurant",
+    "location": "new-york-ny",
+    "date": "2026-07-04",
+    "party_size": 2,
+    "window_start": "18:30",
+    "window_end": "20:00",
+    "ideal_time": "19:00",
+    "table_type": null
+  },
+  "drop": {
+    "time": "2026-06-13T09:00:00",
+    "timezone": "America/New_York",
+    "lead_ms": 1000
+  },
+  "polling": {
+    "interval_ms": 250,
+    "max_duration_s": 180,
+    "request_timeout_s": 4.0
+  }
+}
